@@ -1,15 +1,9 @@
 # wordpress-user-list-plugin
 
 
-<!-- wp:paragraph -->
-<p><em><strong>Headbook</strong></em> is a simple WordPress project to show a list of the registered BuddyPress users, along with their avatars, number of activity items they have posted, number of groups they belong to, as well as number of friends they have.</p>
-<!-- /wp:paragraph -->
+*Headbook* is a simple WordPress project to show a list of the registered BuddyPress users, along with their avatars, number of activity items they have posted, number of groups they belong to, as well as number of friends they have.
 
-<!-- wp:heading -->
-<h2>Tools</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
+## Tools
 <ul><li>WordPress v5.7</li><li>BuddyPress plugin v7.2.1</li><li>BP Default Data plugin v1.3.1 <span class="has-inline-color has-vivid-red-color"><strong>*</strong></span></li><li>MiNNaK theme v2.1.4 <span class="has-inline-color has-vivid-red-color"><strong>*</strong></span></li></ul>
 <!-- /wp:list -->
 
